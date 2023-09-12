@@ -1,5 +1,5 @@
 <h1>Paul Georgescu 🦁</h1>
-<p align="center">
+<p align="justify">
   Transitioning from a sales background, I recognized the growing importance of data-driven solutions and embarked on a transformative 9-week web development bootcamp at Le Wagon. There, I mastered skills like HTML, CSS, JavaScript, Git, and Ruby on Rails.
 Now, I'm diving into front-end development, with React as my next frontier. I've already started a cool project with it, and I'm eager to make it even better.
 I love learning and tinkering with new ideas, and I'm all about connecting with people who share my passion.
